@@ -1,4 +1,4 @@
-
+Fullname: Praise Pankyes Mandik
 # Java Weekend Projects
 
 A collection of four Java console applications developed to
